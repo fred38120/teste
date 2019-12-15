@@ -22,6 +22,7 @@ public class ListaNos {
 		{
 			no.setNext(prim);
 			prim = no;
+			
 			return true;
 		}
 		
